@@ -1,6 +1,7 @@
 # Short-Term Load Forecasting Benchmark
 
 [![Tests](https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark/actions/workflows/tests.yml/badge.svg)](https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark/actions/workflows/tests.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23335492.svg)](https://doi.org/10.5281/zenodo.23335492)
 
 A Python research portfolio for evaluating electricity-demand forecasts with explicit data checks, chronological validation and past-only features.
 
@@ -84,11 +85,22 @@ See [METHODS.md](docs/METHODS.md) and [VALIDATION.md](docs/VALIDATION.md) for th
 
 ## Attribution and citation
 
-Credit both the original student contribution and the supervisor's methodological and software contribution. Machine-readable metadata is provided in [CITATION.cff](CITATION.cff). Use GitHub's **Cite this repository** menu to copy an APA or BibTeX citation, and include the commit identifier when referring to a specific revision.
+Please cite both authors in this order: **Lei Xing and Zohreh Kaheh**. [AUTHORS.md](AUTHORS.md) describes the original undergraduate contribution and Dr Kaheh's supervision, teaching of the concepts and methodology, guidance of the initial implementation, and contributions to code improvement and validation.
+
+Software version **0.1.0**, released on **13 October 2026**, is preserved in [Zenodo](https://zenodo.org/records/23335492) and corresponds to the [GitHub release](https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark/releases/tag/v0.1.0).
+
+- **Version DOI:** [10.5281/zenodo.23335492](https://doi.org/10.5281/zenodo.23335492) — identifies this specific archived software release.
+- **Concept DOI:** [10.5281/zenodo.23335491](https://doi.org/10.5281/zenodo.23335491) — identifies the software across archived versions and resolves to the latest version.
+
+> Xing, L., & Kaheh, Z. (2026). *Short-Term Load Forecasting Benchmark: Supervised Research Portfolio* (Version 0.1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23335492
+
+Use [CITATION.cff](CITATION.cff), [CITATION.bib](CITATION.bib), or GitHub's **Cite this repository** menu. Cite the software version actually consulted; include a commit identifier if discussing later changes on `main`.
+
+The archive contains exactly the 18 tracked files at release commit `416c34e43046a4905cdb435c8138d6d9f5b70414`. DOI citation metadata were added to `main` after registration and are not part of that archived snapshot. The release tag has not been moved. See [archive provenance](docs/ARCHIVING.md).
 
 Related publication: Xing, L., and Kaheh, Z. (2026). *Fair Benchmarking in Short-Term Load Forecasting*. Artificial Intelligence for Engineering. [doi:10.1049/aie2.70011](https://doi.org/10.1049/aie2.70011).
 
-That DOI identifies the article, not this software. This repository has no software DOI yet.
+**The article DOI and software DOI identify different works.** This software is a substantially revised portfolio implementation, not an exact reproduction of the article. Citation does not grant reuse permission; see [RIGHTS.md](RIGHTS.md).
 
 ## Rights
 

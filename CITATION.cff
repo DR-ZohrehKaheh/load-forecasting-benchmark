@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please credit Lei Xing and project supervisor Dr Zohreh Kaheh when referring to this portfolio software. The related article DOI does not identify this software."
+message: "Please cite this archived software version and credit Lei Xing and project supervisor Dr Zohreh Kaheh. Citation does not grant reuse permission; see RIGHTS.md. The related article DOI identifies the article only."
 type: software
 title: "Short-Term Load Forecasting Benchmark: Supervised Research Portfolio"
 authors:
@@ -8,7 +8,11 @@ authors:
   - family-names: Kaheh
     given-names: Zohreh
     orcid: "https://orcid.org/0000-0002-8518-8545"
-version: 0.1.0
+version: "0.1.0"
+date-released: "2026-10-13"
+doi: "10.5281/zenodo.23335492"
+commit: "416c34e43046a4905cdb435c8138d6d9f5b70414"
+url: "https://zenodo.org/records/23335492"
 repository-code: "https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark"
 abstract: "A revised Python portfolio implementation of supervised electricity-demand forecasting work, with single-authority data validation, chronological evaluation, tree ensembles and neural sequence models."
 keywords:

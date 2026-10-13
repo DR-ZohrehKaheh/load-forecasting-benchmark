@@ -32,4 +32,8 @@ The CI-equivalent one-epoch synthetic command also completed in the fresh enviro
 
 Remote test results are recorded in [GitHub Actions](https://github.com/DR-ZohrehKaheh/load-forecasting-benchmark/actions/workflows/tests.yml); the README badge shows the workflow status. The original R/TensorFlow scripts, weather/IPMAN integration, TFT experiments, multi-step forecasting and exact paper reproduction are not included in the verified scope.
 
-The publication DOI in the citation metadata is a related-article reference, not a software DOI. No software license or DOI deposit has been created by this preparation step.
+The publication DOI in the citation metadata is a related-article reference, not a software DOI. No software license or DOI deposit was created by the original preparation step.
+
+## Publication update — 13 October 2026
+
+The prepared code was subsequently published as release `v0.1.0` at commit `416c34e43046a4905cdb435c8138d6d9f5b70414` and archived with software DOI [10.5281/zenodo.23335492](https://doi.org/10.5281/zenodo.23335492). Its successful GitHub Actions run was inspected during archiving; the historical-data experiment above was not rerun. This update does not change the original verification scope. See [ARCHIVING.md](ARCHIVING.md) for provenance and the distinction between the archived snapshot and later citation edits.
