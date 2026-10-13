@@ -1,0 +1,10 @@
+# Verified CPU environment: Python 3.12. Install in a fresh virtual environment.
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy==2.5.4
+pandas==2.2.3
+scipy==1.18.1
+scikit-learn==1.8.0
+lightgbm==4.7.0
+torch==2.14.1+cpu
+matplotlib==3.10.8
+pytest==9.1.1
